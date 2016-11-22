@@ -20,7 +20,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7d175d-9d83-401f-b6ae-4ff72641ec52.png
 name: The Sunday Crew TV
 navigation:
-  - name: Check out The Sunday Crew on YouTube
+  - name: TSC on YouTube
     url: 'https://www.youtube.com/channel/UC_6gYjDKPJ2c7DLiQMGmF5w/featured'
     type: external
   - name: Synopsis
