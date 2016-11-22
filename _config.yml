@@ -1,0 +1,43 @@
+typography_spectrum: 0.35966741223819554
+color:
+  brandStrength: 0.8050390265416354
+  lightness: 0.9422413988504559
+  saturation: 0.6324306763708591
+  rhythmicContrast: 0.7155910916626453
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2f5b530-ae3d-4419-af97-0fe05e525f9b.jpg
+  appId: Thesundaycrewtv
+layout_spectrum: 0.16935704415664077
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7d175d-9d83-401f-b6ae-4ff72641ec52.png
+name: The Sunday Crew TV
+navigation:
+  - name: Check out The Sunday Crew on YouTube
+    url: 'https://www.youtube.com/channel/UC_6gYjDKPJ2c7DLiQMGmF5w/featured'
+    type: external
+  - name: Synopsis
+    id: d0f2276e-c7bf-4572-b1b8-418072e1e292
+    type: content
+  - name: The Crew
+    id: 584501c9-c2c6-42a5-bb5a-8843a5f7c320
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f17a967-59b3-4b67-a2e7-514bb2da61b3.png
+title: The Sunday Crew
+content: []
+description: web series
+purpose:
+  - type: contact
+    url: 'mailto:inquiries@thesundaycrew.org'
+    label: Contact me
+  - type: external
+    url: 'https://www.youtube.com/channel/UC_6gYjDKPJ2c7DLiQMGmF5w/featured'
+    label: TSC on YouTube
