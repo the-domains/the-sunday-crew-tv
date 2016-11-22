@@ -1,4 +1,3 @@
-layout_spectrum: 0.21293511341298274
 typography_spectrum: 0.7323296531036237
 color:
   brandStrength: 0.4883839089660398
@@ -16,6 +15,7 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2f5b530-ae3d-4419-af97-0fe05e525f9b.jpg
   appId: Thesundaycrewtv
+layout_spectrum: 0.21293511341298274
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7d175d-9d83-401f-b6ae-4ff72641ec52.png
 name: The Sunday Crew TV
