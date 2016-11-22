@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-11-22T10:34:51.516Z'
+datePublished: '2016-11-22T10:34:57.343Z'
 sourcePath: >-
   _posts/2016-11-22-the-sunday-crew-series-is-a-web-series-that-will-be-released.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-22T10:34:51.116Z'
+dateModified: '2016-11-22T10:34:56.783Z'
 title: Synopsis
 publisher: {}
 description: ''
-starred: false
+starred: true
 url: the-sunday-crew-series-is-a-web-series-that-will-be-released/index.html
 _type: Blurb
 
